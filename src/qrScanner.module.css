@@ -1,0 +1,19 @@
+body {
+	background-color: aliceblue;
+
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 10px;
+	height: 100vh;
+}
+
+.result {
+	margin-top: 10px;
+	font-size: 30px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
